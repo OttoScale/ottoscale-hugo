@@ -1,6 +1,6 @@
 +++
 date = "2015-03-20"
-draft = true
+draft = false
 title = "Scale Against the Odds"
 description = "Welcome to OttoScale"
 
