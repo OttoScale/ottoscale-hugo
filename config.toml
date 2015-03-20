@@ -1,0 +1,25 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+baseurl = "http://ottoscale.github.io/"
+title = "OttoScale.Us - Break Barriers"
+languageCode = "en-us"
+builddrafts = true
+canonifyurls = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
+[params]
+  sidebartitle = "OttoScale"
+  sidebartagline = "Break Barriers"
+  Subtitle = "Scale Against the Odds"
+  AuthorName= "Paul Otto"
+  GitHubUser = "OttoScale"
+  SidebarRecentLimit = 5
